@@ -8,4 +8,4 @@ Well today The Harvesters Collective gives you access to [Dork Harvest v2]...
 git clone https://github.com/RetroPackets/Dork-Harvest.git
 cd Dork-Harvest
 pip install -r requirements.txt
-sudo python3 dork-harvest.py```
+sudo python3 dork-harvest.py
